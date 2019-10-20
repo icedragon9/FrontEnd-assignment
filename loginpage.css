@@ -1,0 +1,109 @@
+.body{
+  background-color:rgb(145, 177, 184);
+}
+#one{
+  background-color:rgb(121, 157, 166);
+  height:500px;
+  width:500px;
+  //position: relative;
+  position: absolute;
+  top:0px;
+}
+.two{
+  color:white;
+  background-color:rgb(83,209,61);
+  height:70px;
+  width:100px;
+  margin:0px;
+  padding-top: 5px;
+  border-radius: 20px;
+}
+.two:hover
+{
+  transform:rotate(360deg);
+  transition-duration:2s;
+}
+.three{
+  color:white;
+  background-color:rgb(91, 124, 133);
+  text-align:center;
+  height:70px;
+  width:500px;
+  padding-top:10px;
+  margin-top:0px;
+}
+.four{
+  background-color:rgb(151, 190, 199);
+  padding:10px;
+}
+.five{
+  display:flex;
+  flex-direction:row;
+  position:relative;
+  margin-left: 50px;
+}
+#six{
+  background-color:rgb(242, 39, 39);
+  height:500px;
+  width:500px;
+  margin-left:0px;
+   position: absolute;
+   top:0px;
+}
+.seven{
+  height: 500px;
+  width:500px;
+  margin-left:130px;
+  position: relative;
+  background-color: rgb(121, 157, 166);
+}
+.eight{
+  height: 500px;
+  width:500px;
+  background-color: rgb(242, 39, 39);
+  position: relative;;
+
+}
+.signup{
+  color:white;
+  height:50px;
+  width:100px;
+  margin-top:50px;
+  margin-left:200px;
+  background-color:blue;
+  padding-left:20px;
+  padding-right:20px;
+}
+.input{
+  width:300px;
+  height:30px;
+  margin-left:100px;
+}
+.h2{
+  color:white;
+  text-align:center;
+  margin-top: 40px;
+}
+.login{
+  background-color: dodgerblue;
+  height:45px;
+  width: 70px;
+  color:white;
+  margin-left:210px;
+}
+.login1{
+  background-color: dodgerblue;
+  height:45px;
+  width: 70px;
+  color:white;
+  margin-left:220px;
+  margin-top:60px
+}
+.nine{
+  height: 200px;
+  width: 200px;
+  background-color: rgb(232, 53, 53);
+  margin-left: 120px;
+  margin-top: 120px;
+  padding: 30px;
+}
